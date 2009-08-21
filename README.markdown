@@ -20,6 +20,10 @@ Email me: neerajdotname [at] gmail (dot) com
 
 www.neeraj.name
 
+== Source Code
+
+http://github.com/neerajdotname/always_at_bottom/tree/master
+
 == License
 
 MIT
