@@ -26,7 +26,7 @@ Email me: neerajdotname [at] gmail (dot) com
 
 ## Author Blog
 
-www.neeraj.name
+[http://www.neeraj.name](http://www.neeraj.name)
 
 ## Source Code
 
