@@ -11,9 +11,9 @@ jQuery 1.3+
 
 ## How to use it
 <pre>
-	<code>
- 		$('#footer').always_at_bottom();
-	</code>
+  <code>
+    $('#footer').always_at_bottom();
+  </code>
 </pre>
 
 ## Tested with
@@ -30,7 +30,7 @@ Email me: neerajdotname [at] gmail (dot) com
 
 ## Source Code
 
-http://github.com/neerajdotname/always_at_bottom/tree/master
+[http://github.com/neerajdotname/always_at_bottom/tree/master](http://github.com/neerajdotname/always_at_bottom/tree/master)
 
 ## License
 
